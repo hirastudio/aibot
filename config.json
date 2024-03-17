@@ -1,4 +1,5 @@
 {
+  "TOKEN": ("BOT TOKEN"),
   "allowed_channel_ids": ["CHANNEL_ID_1", "CHANNEL_ID_2", "CHANNEL_ID_3"],
   "image2textChannels": ["CHANNEL_ID_1", "CHANNEL_ID_2", "CHANNEL_ID_3"]
 }
