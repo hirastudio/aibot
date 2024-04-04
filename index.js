@@ -2,7 +2,6 @@ const { Client, GatewayIntentBits, MessageAttachment } = require("discord.js");
 const { Hercai } = require("hercai");
 const Tesseract = require("tesseract.js");
 const fetch = require("node-fetch");
-const { startServer } = require("./alive.js");
 const {
   allowed_channel_ids,
   token,
